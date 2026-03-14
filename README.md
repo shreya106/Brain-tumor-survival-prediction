@@ -49,8 +49,7 @@ Result:
 ---------------------
 
 ![Result](image.png)
-![Top features](image-2.png)
-![Shap summary](image-3.png)
+![Top features](image-1.png)
 ![Confusion matrix](confusion_matrix_stacking_classifier.png)
 ![confusion matrix survival](confusion_matrix_survival.png)
 ![tumor type distribution](tumor_type_distribution.png)
