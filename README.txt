@@ -45,8 +45,6 @@ System Requirements:
 - Python 3.7+
 - Minimum 8GB RAM recommended
 
-Team members:
---------
-Shreya Galurgi
-Pratyush Desai
-Shruti Nehe
+Result:
+---------------------
+
